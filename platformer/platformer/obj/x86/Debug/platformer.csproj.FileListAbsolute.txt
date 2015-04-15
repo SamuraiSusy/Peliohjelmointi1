@@ -1,0 +1,10 @@
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\bin\x86\Debug\Content\textures\tile.xnb
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\bin\x86\Debug\Content\textures\player.xnb
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\bin\x86\Debug\Content\levels\level0.txt
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\bin\x86\Debug\platformer.exe
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\bin\x86\Debug\platformer.pdb
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\obj\x86\Debug\platformer.csprojResolveAssemblyReference.cache
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\obj\x86\Debug\platformer.exe
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\obj\x86\Debug\platformer.pdb
+C:\Users\ttk14ssusannan\Downloads\platformer-KURSSI\platformer-KURSSI\platformer\platformer\bin\x86\Debug\Content\textures\debugTexture.xnb
